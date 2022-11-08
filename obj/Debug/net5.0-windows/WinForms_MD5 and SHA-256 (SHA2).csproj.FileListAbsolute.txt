@@ -1,0 +1,19 @@
+C:\Users\Asus\source\repos\WinForms_MD5 and SHA-256 (SHA2)\WinForms_MD5 and SHA-256 (SHA2)\bin\Debug\net5.0-windows\WinForms_MD5 and SHA-256 (SHA2).exe
+C:\Users\Asus\source\repos\WinForms_MD5 and SHA-256 (SHA2)\WinForms_MD5 and SHA-256 (SHA2)\bin\Debug\net5.0-windows\WinForms_MD5 and SHA-256 (SHA2).deps.json
+C:\Users\Asus\source\repos\WinForms_MD5 and SHA-256 (SHA2)\WinForms_MD5 and SHA-256 (SHA2)\bin\Debug\net5.0-windows\WinForms_MD5 and SHA-256 (SHA2).runtimeconfig.json
+C:\Users\Asus\source\repos\WinForms_MD5 and SHA-256 (SHA2)\WinForms_MD5 and SHA-256 (SHA2)\bin\Debug\net5.0-windows\WinForms_MD5 and SHA-256 (SHA2).runtimeconfig.dev.json
+C:\Users\Asus\source\repos\WinForms_MD5 and SHA-256 (SHA2)\WinForms_MD5 and SHA-256 (SHA2)\bin\Debug\net5.0-windows\WinForms_MD5 and SHA-256 (SHA2).dll
+C:\Users\Asus\source\repos\WinForms_MD5 and SHA-256 (SHA2)\WinForms_MD5 and SHA-256 (SHA2)\bin\Debug\net5.0-windows\ref\WinForms_MD5 and SHA-256 (SHA2).dll
+C:\Users\Asus\source\repos\WinForms_MD5 and SHA-256 (SHA2)\WinForms_MD5 and SHA-256 (SHA2)\bin\Debug\net5.0-windows\WinForms_MD5 and SHA-256 (SHA2).pdb
+C:\Users\Asus\source\repos\WinForms_MD5 and SHA-256 (SHA2)\WinForms_MD5 and SHA-256 (SHA2)\obj\Debug\net5.0-windows\WinForms_MD5 and SHA-256 (SHA2).csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\WinForms_MD5 and SHA-256 (SHA2)\WinForms_MD5 and SHA-256 (SHA2)\obj\Debug\net5.0-windows\WinForms_MD5_and_SHA_256__SHA2_.Form1.resources
+C:\Users\Asus\source\repos\WinForms_MD5 and SHA-256 (SHA2)\WinForms_MD5 and SHA-256 (SHA2)\obj\Debug\net5.0-windows\WinForms_MD5_and_SHA_256__SHA2_.Properties.Resources.resources
+C:\Users\Asus\source\repos\WinForms_MD5 and SHA-256 (SHA2)\WinForms_MD5 and SHA-256 (SHA2)\obj\Debug\net5.0-windows\WinForms_MD5 and SHA-256 (SHA2).csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\WinForms_MD5 and SHA-256 (SHA2)\WinForms_MD5 and SHA-256 (SHA2)\obj\Debug\net5.0-windows\WinForms_MD5 and SHA-256 (SHA2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\WinForms_MD5 and SHA-256 (SHA2)\WinForms_MD5 and SHA-256 (SHA2)\obj\Debug\net5.0-windows\WinForms_MD5 and SHA-256 (SHA2).AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\WinForms_MD5 and SHA-256 (SHA2)\WinForms_MD5 and SHA-256 (SHA2)\obj\Debug\net5.0-windows\WinForms_MD5 and SHA-256 (SHA2).AssemblyInfo.cs
+C:\Users\Asus\source\repos\WinForms_MD5 and SHA-256 (SHA2)\WinForms_MD5 and SHA-256 (SHA2)\obj\Debug\net5.0-windows\WinForms_MD5 and SHA-256 (SHA2).csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\WinForms_MD5 and SHA-256 (SHA2)\WinForms_MD5 and SHA-256 (SHA2)\obj\Debug\net5.0-windows\WinForms_MD5 and SHA-256 (SHA2).dll
+C:\Users\Asus\source\repos\WinForms_MD5 and SHA-256 (SHA2)\WinForms_MD5 and SHA-256 (SHA2)\obj\Debug\net5.0-windows\ref\WinForms_MD5 and SHA-256 (SHA2).dll
+C:\Users\Asus\source\repos\WinForms_MD5 and SHA-256 (SHA2)\WinForms_MD5 and SHA-256 (SHA2)\obj\Debug\net5.0-windows\WinForms_MD5 and SHA-256 (SHA2).pdb
+C:\Users\Asus\source\repos\WinForms_MD5 and SHA-256 (SHA2)\WinForms_MD5 and SHA-256 (SHA2)\obj\Debug\net5.0-windows\WinForms_MD5 and SHA-256 (SHA2).genruntimeconfig.cache
